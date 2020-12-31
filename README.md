@@ -1,5 +1,5 @@
-<title>Business_credit_ratings</title>
-<h1>Business_credit_ratings AI  </h1>
+
+<h1>Business_credit_ratings-Building AI course project</h1>
 Final project for the Building AI course
 <h2>Summary  </h2>
 
